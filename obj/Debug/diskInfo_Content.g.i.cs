@@ -8,6 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("settings/settingsfile.txt")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/ask-greenground-darkred.jpg")]
 
 

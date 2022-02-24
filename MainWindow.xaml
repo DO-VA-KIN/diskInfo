@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:diskInfo"
         mc:Ignorable="d"
-        Title="diskInfo(1.0)" ResizeMode="CanMinimize" Height="435" Width="475" Background="GhostWhite" Loaded="Window_Loaded">
+        Title="diskInfo(1.0)" ResizeMode="CanMinimize" Height="435" Width="475" Background="GhostWhite" Loaded="Window_Loaded" Icon="images/ASK-greenGround-DarkRed.jpg">
     <Grid>
         <Menu x:Name="mMenu" Height="20" FontSize="14" VerticalAlignment="Top">
             <MenuItem Header="Файл">
