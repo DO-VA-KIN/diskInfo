@@ -1,0 +1,17 @@
+C:\Users\Gimn4\source\repos\university\wpf\diskInfo\bin\Debug\diskInfo.exe.config
+C:\Users\Gimn4\source\repos\university\wpf\diskInfo\bin\Debug\diskInfo.exe
+C:\Users\Gimn4\source\repos\university\wpf\diskInfo\bin\Debug\diskInfo.pdb
+C:\Users\Gimn4\source\repos\university\wpf\diskInfo\obj\Debug\MainWindow.g.cs
+C:\Users\Gimn4\source\repos\university\wpf\diskInfo\obj\Debug\App.g.cs
+C:\Users\Gimn4\source\repos\university\wpf\diskInfo\obj\Debug\diskInfo_MarkupCompile.cache
+C:\Users\Gimn4\source\repos\university\wpf\diskInfo\obj\Debug\diskInfo_MarkupCompile.lref
+C:\Users\Gimn4\source\repos\university\wpf\diskInfo\obj\Debug\MainWindow.baml
+C:\Users\Gimn4\source\repos\university\wpf\diskInfo\obj\Debug\diskInfo.g.resources
+C:\Users\Gimn4\source\repos\university\wpf\diskInfo\obj\Debug\diskInfo.Properties.Resources.resources
+C:\Users\Gimn4\source\repos\university\wpf\diskInfo\obj\Debug\diskInfo.csproj.GenerateResource.cache
+C:\Users\Gimn4\source\repos\university\wpf\diskInfo\obj\Debug\diskInfo.csproj.CoreCompileInputs.cache
+C:\Users\Gimn4\source\repos\university\wpf\diskInfo\obj\Debug\diskInfo.exe
+C:\Users\Gimn4\source\repos\university\wpf\diskInfo\obj\Debug\diskInfo.pdb
+C:\Users\Gimn4\source\repos\university\wpf\diskInfo\obj\Debug\settings\WindowSettings.g.cs
+C:\Users\Gimn4\source\repos\university\wpf\diskInfo\obj\Debug\settings\WindowSettings.baml
+C:\Users\Gimn4\source\repos\university\wpf\diskInfo\obj\Debug\diskInfo.csproj.AssemblyReference.cache

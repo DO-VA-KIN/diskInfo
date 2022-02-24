@@ -1,0 +1,21 @@
+﻿<Window x:Class="diskInfo.settings.WindowSettings"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:diskInfo.settings"
+        mc:Ignorable="d"
+        x:Name="wSettings" Title="Настройки" ResizeMode="CanMinimize" Height="200" Width="200" Background="AliceBlue" Loaded="wSettings_Loaded">
+    <Grid>
+        <CheckBox x:Name="chAutoCheck" Content="автообновление" FontSize="11" ForceCursor="False" Height="18" HorizontalAlignment="Right" IsChecked="True" IsThreeState="False" Margin="0,23,58.6,0" VerticalAlignment="Top" Width="107" HorizontalContentAlignment="Left">
+            <CheckBox.RenderTransform>
+                <ScaleTransform ScaleX="1.3" ScaleY="1.3" />
+            </CheckBox.RenderTransform>
+        </CheckBox>
+
+        <Label Content="Интервал обновления(с)" HorizontalAlignment="Left" FontSize="13" Margin="16,54,0,0" VerticalAlignment="Top" Width="162"/>
+        <TextBox x:Name="tbIntAutoCheck" HorizontalAlignment="Left" FontSize="15" Height="23" Margin="50,80,0,0" TextAlignment="Center" TextWrapping="Wrap" Text="30" VerticalAlignment="Top" Width="92"/>
+        <Button x:Name="btnSettingsConfirm" Content="установить" FontSize="14" HorizontalAlignment="Left" Margin="52.5,130,0,0" VerticalAlignment="Top" Width="85" Height="25" Click="btnSettingsConfirm_Click"/>
+
+    </Grid>
+</Window>
